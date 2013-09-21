@@ -1,7 +1,8 @@
-img .downTriangle {
-    clip-path: polygon(0px 0px, 500px 0px, 250px 500px);
+.bigCircle {
+    border: 20px solid transparent;
+    border-radius: 400px;
 }
 
-img .upTriangle {
-    
+.bigCircle:hover {
+    background-color:#BADA55;
 }
